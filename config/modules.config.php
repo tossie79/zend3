@@ -25,5 +25,7 @@ return [
     'Zend\Db',
     'Zend\Router',
     'Zend\Validator',
-    'Application',
+    'ZFT',
+    'Application'
+    
 ];
