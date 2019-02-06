@@ -31,12 +31,14 @@
     "autoload": {
         "psr-4": {
             "Portal\\": "module/Portal/src/",
+            "Album\\": "module/Album/src/",
             "ZFT\\": "module/ZFT/src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
             "PortalTest\\": "module/Portal/test/",
+            "AlbumTest\\": "module/Album/src/",
             "ZFTest\\": "module/ZFT/test/"
         }
     },

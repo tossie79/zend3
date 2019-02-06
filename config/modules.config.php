@@ -25,6 +25,7 @@ return [
     'Zend\Db',
     'Zend\Router',
     'Zend\Validator',
+    'Album',
     'ZFT',
     'Portal'
     
