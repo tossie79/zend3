@@ -5,4 +5,9 @@
             <directory>./module/Portal/test</directory>
         </testsuite>
     </testsuites>
+    <testsuites>
+        <testsuite name="Web Issue ZF Test Suite">
+            <directory>./module/ZFT/test</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
